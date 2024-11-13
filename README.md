@@ -1,6 +1,6 @@
 # MLOps Insights and Learnings
 
-This is a collection of my personal learnings and best practices in the field of Machine Learning Operations (MLOps). 📚 
+This is a collection of my personal learnings, experiences and best practices in the field of Machine Learning Operations (MLOps). 📚 
 
 My goal is to share insights on various MLOps topics. 🚀
 
